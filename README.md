@@ -1,7 +1,9 @@
 # Scores
-Scores of Sacred Music, ACG Music and Classical Music
+Scores of Sacred Music, ACG Music and Classical Music.
+Please click the name of the directory *above* accordingly.
 
 乐谱集-圣乐，ACG音乐和古典音乐
+请点击*上方*的目录名。
 
 ## Directories
 目录说明
