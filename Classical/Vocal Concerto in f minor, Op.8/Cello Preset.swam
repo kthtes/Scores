@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<swam type="Strings" version="10" range="0,127" tags="" softwareVersion="3.12.0">
+  <datetime value="Tue May  5 10:13:18 2026&#10;"/>
+  <program name="Cello Preset">
+    <position cc00="-1" cc32="-1" pc="-1"/>
+    <locks soundengine="0" midimapping="0" microtuning="0" roomsimulator="0"/>
+    <soundengine>
+      <params>
+        <PARAM id="EQenabled" value="0.0"/>
+        <PARAM id="EQhighGain" value="1.490116119384766e-7"/>
+        <PARAM id="EQlowGain" value="1.490116119384766e-7"/>
+        <PARAM id="EQmidFreq" value="750.5"/>
+        <PARAM id="EQmidGain" value="1.490116119384766e-7"/>
+        <PARAM id="ManualTremoloMode" value="0.0"/>
+        <PARAM id="PizzTone" value="0.5"/>
+        <PARAM id="accStyle" value="0.550000011920929"/>
+        <PARAM id="altFingParam" value="0.0"/>
+        <PARAM id="atkRampTime" value="7.0"/>
+        <PARAM id="autoDetectionTime" value="12.0"/>
+        <PARAM id="bowForceParam" value="0.5"/>
+        <PARAM id="bowLiftParam" value="0.0"/>
+        <PARAM id="bowNoiseParam" value="0.8899999856948853"/>
+        <PARAM id="bowPositionParam" value="0.1040000021457672"/>
+        <PARAM id="bowRandomPosParam" value="0.5"/>
+        <PARAM id="bowStartParam" value="0.0"/>
+        <PARAM id="bowingSens" value="0.5"/>
+        <PARAM id="dblHoldStrSelection" value="1.0"/>
+        <PARAM id="dynamicTransitions" value="0.5"/>
+        <PARAM id="earlyReflectionGain" value="0.5"/>
+        <PARAM id="gestureModeParam" value="1.0"/>
+        <PARAM id="harmonicGainA" value="-1.788139343261719e-7"/>
+        <PARAM id="harmonicGainB" value="-1.788139343261719e-7"/>
+        <PARAM id="harmonicSelectA" value="2.0"/>
+        <PARAM id="harmonicSelectB" value="3.0"/>
+        <PARAM id="harmonicsControl" value="4.0"/>
+        <PARAM id="harmonicsEnabled" value="0.0"/>
+        <PARAM id="harmonicsParam" value="0.0"/>
+        <PARAM id="interactiveBowing" value="0.699999988079071"/>
+        <PARAM id="irSelected" value="11.0"/>
+        <PARAM id="legatoSwap" value="1.0"/>
+        <PARAM id="mainVolume" value="-2.999998569488525"/>
+        <PARAM id="manualBowing" value="0.0"/>
+        <PARAM id="manualBowingSustainNote" value="1.0"/>
+        <PARAM id="masterTune" value="440.0"/>
+        <PARAM id="masterVolumeProcessing" value="0.0"/>
+        <PARAM id="openStrings" value="0.5"/>
+        <PARAM id="panPot" value="1.475214958190918e-6"/>
+        <PARAM id="panpotType" value="2.0"/>
+        <PARAM id="pizzModl" value="0.6000000238418579"/>
+        <PARAM id="pizzicatoPoly" value="1.0"/>
+        <PARAM id="playModeParam" value="0.0"/>
+        <PARAM id="polyphonyParam" value="0.0"/>
+        <PARAM id="portamentoTime" value="0.0"/>
+        <PARAM id="randomFinger" value="0.5"/>
+        <PARAM id="realMonoOpt" value="3.0"/>
+        <PARAM id="reverbMix" value="18.0"/>
+        <PARAM id="reverbTime" value="0.5"/>
+        <PARAM id="sordinoParam" value="0.0"/>
+        <PARAM id="staccatoIntervalTime" value="1.0"/>
+        <PARAM id="stickinessParam" value="0.5"/>
+        <PARAM id="string0tune" value="36.0"/>
+        <PARAM id="stringRes" value="0.5"/>
+        <PARAM id="stringsInterval1" value="7.0"/>
+        <PARAM id="stringsInterval2" value="7.0"/>
+        <PARAM id="stringsInterval3" value="7.0"/>
+        <PARAM id="stringsModel" value="0.0"/>
+        <PARAM id="tremoloMode" value="1.0"/>
+        <PARAM id="tremoloParam" value="0.0"/>
+        <PARAM id="tremoloSpeed" value="8.0"/>
+        <PARAM id="vibratoFadeIn" value="250.0"/>
+        <PARAM id="vibratoRate" value="5.599999904632568"/>
+        <PARAM id="vibratoRateRand" value="6.0"/>
+      </params>
+    </soundengine>
+    <midimapping>
+      <params>
+        <PARAM id="KSmidiCH" value="17.0"/>
+        <PARAM id="MAQAMFactoryMapping" value="0.0"/>
+        <PARAM id="MAQAMTranspose" value="0.0"/>
+        <PARAM id="attackType" value="0.0"/>
+        <PARAM id="bcHiResThreshold" value="0.5"/>
+        <PARAM id="breathControllerAtkSens" value="2.0"/>
+        <PARAM id="breathControllerMode" value="0.0"/>
+        <PARAM id="cavitScale" value="1.0"/>
+        <PARAM id="exprStrResParam" value="0.0"/>
+        <PARAM id="keySwitchesOctaveTransp" value="-3.0"/>
+        <PARAM id="keySwitchesPageSwitch" value="0.0"/>
+        <PARAM id="ksVelRemap" value="0.5"/>
+        <PARAM id="microTuneKeySwitchesReset" value="1.0"/>
+        <PARAM id="microTuneLearnByKeySwitches" value="0.0"/>
+        <PARAM id="midiProfile" value="1.0"/>
+        <PARAM id="noteOffVelocity" value="1.0"/>
+        <PARAM id="panic" value="0.0"/>
+        <PARAM id="pitchBendDown" value="2.0"/>
+        <PARAM id="pitchBendUp" value="2.0"/>
+        <PARAM id="pizzColLegnoControl" value="0.0"/>
+        <PARAM id="portamSplitRatioParam" value="50.0"/>
+        <PARAM id="portamentoCtrl" value="0.0"/>
+        <PARAM id="portamentoMaxTime" value="2.5"/>
+        <PARAM id="receiveMIDIChannel" value="17.0"/>
+        <PARAM id="releaseWindControllerMode" value="0.0"/>
+        <PARAM id="sustainRamp" value="0.0"/>
+        <PARAM id="transpose" value="0.0"/>
+      </params>
+      <MIDIRemappingTable>
+        <MIDIRemappingEntry enabled="1" parameterId="expression" channel="17" messageType="1"
+                            msb="11" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="3.0" out_max="127.0"
+                              shape="0.03999999910593033" symmetry="0.800000011920929" bypass="0"
+                              bipolar="0"/>
+        </MIDIRemappingEntry>
+        <MIDIRemappingEntry enabled="1" parameterId="vibratoDepth" channel="17" messageType="1"
+                            msb="1" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="1.0" out_max="110.0"
+                              shape="0.0" symmetry="0.5" bypass="0" bipolar="0"/>
+        </MIDIRemappingEntry>
+        <MIDIRemappingEntry enabled="1" parameterId="vibratoRate" channel="17" messageType="1"
+                            msb="19" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="1.0" out_max="127.0"
+                              shape="0.0" symmetry="0.5" bypass="0" bipolar="0"/>
+        </MIDIRemappingEntry>
+        <MIDIRemappingEntry enabled="1" parameterId="mainVolume" channel="17" messageType="1"
+                            msb="7" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="1.0" out_max="127.0"
+                              shape="0.0" symmetry="0.5" bypass="0" bipolar="0"/>
+        </MIDIRemappingEntry>
+        <MIDIRemappingEntry enabled="1" parameterId="panPot" channel="17" messageType="1"
+                            msb="10" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="1.0" out_max="127.0"
+                              shape="0.0" symmetry="0.5" bypass="0" bipolar="0"/>
+        </MIDIRemappingEntry>
+        <MIDIRemappingEntry enabled="1" parameterId="reverbMix" channel="17" messageType="1"
+                            msb="90" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="1.0" out_max="127.0"
+                              shape="0.0" symmetry="0.5" bypass="0" bipolar="0"/>
+        </MIDIRemappingEntry>
+        <MIDIRemappingEntry enabled="1" parameterId="sustain" channel="17" messageType="1"
+                            msb="64" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="1.0" out_max="127.0"
+                              shape="0.9900000095367432" symmetry="0.5" bypass="0" bipolar="0"/>
+        </MIDIRemappingEntry>
+        <MIDIRemappingEntry enabled="1" parameterId="playModeParam" channel="17" messageType="1"
+                            msb="32" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="0.0" out_max="127.0"
+                              shape="0.0" symmetry="0.5" bypass="0" bipolar="0"/>
+        </MIDIRemappingEntry>
+        <MIDIRemappingEntry enabled="0" parameterId="velocity" channel="17" messageType="4"
+                            msb="-1" lsb="-1">
+          <MIDIRemappingCurve input_min="0.0" input_max="127.0" out_min="1.0" out_max="127.0"
+                              shape="0.0" symmetry="0.5" bypass="1" bipolar="0"/>
+        </MIDIRemappingEntry>
+      </MIDIRemappingTable>
+    </midimapping>
+    <microtuning>
+      <params>
+        <PARAM id="microTuningRoot" value="0.0"/>
+        <PARAM id="microtuning_0" value="-50.0"/>
+        <PARAM id="microtuning_1" value="-50.0"/>
+        <PARAM id="microtuning_10" value="-50.0"/>
+        <PARAM id="microtuning_11" value="-50.0"/>
+        <PARAM id="microtuning_2" value="-50.0"/>
+        <PARAM id="microtuning_3" value="-50.0"/>
+        <PARAM id="microtuning_4" value="-50.0"/>
+        <PARAM id="microtuning_5" value="-50.0"/>
+        <PARAM id="microtuning_6" value="-50.0"/>
+        <PARAM id="microtuning_7" value="-50.0"/>
+        <PARAM id="microtuning_8" value="-50.0"/>
+        <PARAM id="microtuning_9" value="-50.0"/>
+        <PARAM id="mtstatus_0" value="0.0"/>
+        <PARAM id="mtstatus_1" value="0.0"/>
+        <PARAM id="mtstatus_10" value="0.0"/>
+        <PARAM id="mtstatus_11" value="0.0"/>
+        <PARAM id="mtstatus_2" value="0.0"/>
+        <PARAM id="mtstatus_3" value="0.0"/>
+        <PARAM id="mtstatus_4" value="0.0"/>
+        <PARAM id="mtstatus_5" value="0.0"/>
+        <PARAM id="mtstatus_6" value="0.0"/>
+        <PARAM id="mtstatus_7" value="0.0"/>
+        <PARAM id="mtstatus_8" value="0.0"/>
+        <PARAM id="mtstatus_9" value="0.0"/>
+        <PARAM id="temperam" value="0.0"/>
+      </params>
+      <presets>
+        <preset slotNumber="1">
+          <note id="0" status="0" value="-50" noteName="C"/>
+          <note id="1" status="0" value="-50" noteName="C#"/>
+          <note id="2" status="0" value="-50" noteName="D"/>
+          <note id="3" status="0" value="-50" noteName="D#"/>
+          <note id="4" status="0" value="-50" noteName="E"/>
+          <note id="5" status="0" value="-50" noteName="F"/>
+          <note id="6" status="0" value="-50" noteName="F#"/>
+          <note id="7" status="0" value="-50" noteName="G"/>
+          <note id="8" status="0" value="-50" noteName="G#"/>
+          <note id="9" status="0" value="-50" noteName="A"/>
+          <note id="10" status="0" value="-50" noteName="A#"/>
+          <note id="11" status="0" value="-50" noteName="B"/>
+        </preset>
+        <preset slotNumber="2">
+          <note id="0" status="0" value="-50" noteName="C"/>
+          <note id="1" status="0" value="-50" noteName="C#"/>
+          <note id="2" status="0" value="-50" noteName="D"/>
+          <note id="3" status="0" value="-50" noteName="D#"/>
+          <note id="4" status="0" value="-50" noteName="E"/>
+          <note id="5" status="0" value="-50" noteName="F"/>
+          <note id="6" status="0" value="-50" noteName="F#"/>
+          <note id="7" status="0" value="-50" noteName="G"/>
+          <note id="8" status="0" value="-50" noteName="G#"/>
+          <note id="9" status="0" value="-50" noteName="A"/>
+          <note id="10" status="0" value="-50" noteName="A#"/>
+          <note id="11" status="0" value="-50" noteName="B"/>
+        </preset>
+        <preset slotNumber="3">
+          <note id="0" status="0" value="-50" noteName="C"/>
+          <note id="1" status="0" value="-50" noteName="C#"/>
+          <note id="2" status="0" value="-50" noteName="D"/>
+          <note id="3" status="0" value="-50" noteName="D#"/>
+          <note id="4" status="0" value="-50" noteName="E"/>
+          <note id="5" status="0" value="-50" noteName="F"/>
+          <note id="6" status="0" value="-50" noteName="F#"/>
+          <note id="7" status="0" value="-50" noteName="G"/>
+          <note id="8" status="0" value="-50" noteName="G#"/>
+          <note id="9" status="0" value="-50" noteName="A"/>
+          <note id="10" status="0" value="-50" noteName="A#"/>
+          <note id="11" status="0" value="-50" noteName="B"/>
+        </preset>
+        <preset slotNumber="4">
+          <note id="0" status="0" value="-50" noteName="C"/>
+          <note id="1" status="0" value="-50" noteName="C#"/>
+          <note id="2" status="0" value="-50" noteName="D"/>
+          <note id="3" status="0" value="-50" noteName="D#"/>
+          <note id="4" status="0" value="-50" noteName="E"/>
+          <note id="5" status="0" value="-50" noteName="F"/>
+          <note id="6" status="0" value="-50" noteName="F#"/>
+          <note id="7" status="0" value="-50" noteName="G"/>
+          <note id="8" status="0" value="-50" noteName="G#"/>
+          <note id="9" status="0" value="-50" noteName="A"/>
+          <note id="10" status="0" value="-50" noteName="A#"/>
+          <note id="11" status="0" value="-50" noteName="B"/>
+        </preset>
+        <preset slotNumber="5">
+          <note id="0" status="0" value="-50" noteName="C"/>
+          <note id="1" status="0" value="-50" noteName="C#"/>
+          <note id="2" status="0" value="-50" noteName="D"/>
+          <note id="3" status="0" value="-50" noteName="D#"/>
+          <note id="4" status="0" value="-50" noteName="E"/>
+          <note id="5" status="0" value="-50" noteName="F"/>
+          <note id="6" status="0" value="-50" noteName="F#"/>
+          <note id="7" status="0" value="-50" noteName="G"/>
+          <note id="8" status="0" value="-50" noteName="G#"/>
+          <note id="9" status="0" value="-50" noteName="A"/>
+          <note id="10" status="0" value="-50" noteName="A#"/>
+          <note id="11" status="0" value="-50" noteName="B"/>
+        </preset>
+        <preset slotNumber="6">
+          <note id="0" status="0" value="-50" noteName="C"/>
+          <note id="1" status="0" value="-50" noteName="C#"/>
+          <note id="2" status="0" value="-50" noteName="D"/>
+          <note id="3" status="0" value="-50" noteName="D#"/>
+          <note id="4" status="0" value="-50" noteName="E"/>
+          <note id="5" status="0" value="-50" noteName="F"/>
+          <note id="6" status="0" value="-50" noteName="F#"/>
+          <note id="7" status="0" value="-50" noteName="G"/>
+          <note id="8" status="0" value="-50" noteName="G#"/>
+          <note id="9" status="0" value="-50" noteName="A"/>
+          <note id="10" status="0" value="-50" noteName="A#"/>
+          <note id="11" status="0" value="-50" noteName="B"/>
+        </preset>
+        <preset slotNumber="7">
+          <note id="0" status="0" value="-50" noteName="C"/>
+          <note id="1" status="0" value="-50" noteName="C#"/>
+          <note id="2" status="0" value="-50" noteName="D"/>
+          <note id="3" status="0" value="-50" noteName="D#"/>
+          <note id="4" status="0" value="-50" noteName="E"/>
+          <note id="5" status="0" value="-50" noteName="F"/>
+          <note id="6" status="0" value="-50" noteName="F#"/>
+          <note id="7" status="0" value="-50" noteName="G"/>
+          <note id="8" status="0" value="-50" noteName="G#"/>
+          <note id="9" status="0" value="-50" noteName="A"/>
+          <note id="10" status="0" value="-50" noteName="A#"/>
+          <note id="11" status="0" value="-50" noteName="B"/>
+        </preset>
+      </presets>
+    </microtuning>
+    <roomsimulator>
+      <params>
+        <PARAM id="roomEnabled" value="1.0"/>
+      </params>
+      <RoomsManager>
+        <Rooms>
+          <Room id="studioA_room" name="Studio_A" user="0" editable="1" active="1">
+            <Parameters>
+              <Parameter parameterId="roomSizes" value="7.0"/>
+              <Parameter parameterId="roomAbsorptionMaterials" value="1.0"/>
+              <Parameter parameterId="roomListenerPosition" value="5.0"/>
+              <Parameter parameterId="roomSourceDelayMode" value="0.0"/>
+              <Parameter parameterId="roomModulationOnOff" value="1.0"/>
+              <Parameter parameterId="roomDistanceBetweenMics" value="17.0"/>
+              <Parameter parameterId="roomAmbienceAmount" value="-3.0"/>
+            </Parameters>
+          </Room>
+          <Room id="studioB_room" name="Studio_B" user="0" editable="1" active="0">
+            <Parameters>
+              <Parameter parameterId="roomSizes" value="8.0"/>
+              <Parameter parameterId="roomAbsorptionMaterials" value="1.0"/>
+              <Parameter parameterId="roomListenerPosition" value="3.599999904632568"/>
+              <Parameter parameterId="roomSourceDelayMode" value="0.0"/>
+              <Parameter parameterId="roomModulationOnOff" value="1.0"/>
+              <Parameter parameterId="roomDistanceBetweenMics" value="17.0"/>
+              <Parameter parameterId="roomAmbienceAmount" value="-3.0"/>
+            </Parameters>
+          </Room>
+          <Room id="studioC_room" name="Studio_C" user="0" editable="1" active="0">
+            <Parameters>
+              <Parameter parameterId="roomSizes" value="6.0"/>
+              <Parameter parameterId="roomAbsorptionMaterials" value="2.0"/>
+              <Parameter parameterId="roomListenerPosition" value="7.0"/>
+              <Parameter parameterId="roomSourceDelayMode" value="0.0"/>
+              <Parameter parameterId="roomModulationOnOff" value="1.0"/>
+              <Parameter parameterId="roomDistanceBetweenMics" value="17.0"/>
+              <Parameter parameterId="roomAmbienceAmount" value="-3.0"/>
+            </Parameters>
+          </Room>
+          <Room id="closeMic_room" name="Close_Mic_Room" user="0" editable="0"
+                active="0">
+            <Parameters>
+              <Parameter parameterId="roomSizes" value="0.0"/>
+              <Parameter parameterId="roomAbsorptionMaterials" value="2.0"/>
+              <Parameter parameterId="roomListenerPosition" value="3.0"/>
+              <Parameter parameterId="roomSourceDelayMode" value="5.0"/>
+              <Parameter parameterId="roomModulationOnOff" value="0.0"/>
+              <Parameter parameterId="roomDistanceBetweenMics" value="17.0"/>
+              <Parameter parameterId="roomAmbienceAmount" value="-9.0"/>
+            </Parameters>
+          </Room>
+        </Rooms>
+      </RoomsManager>
+    </roomsimulator>
+    <positioning>
+      <params>
+        <PARAM id="roomSourceAngle" value="90.0"/>
+        <PARAM id="roomSourceDistance" value="3.0"/>
+      </params>
+    </positioning>
+  </program>
+</swam>
+ 
